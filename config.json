@@ -1,0 +1,63 @@
+{
+  "botToken": "OTE4OTM2MDY2MDUwODg3NzEx.YbOf5w.MH8zHwxdnK_-f3PdSj-mc-bFCsk",
+  "activity": "Beep Boop",
+  "embed": {
+    "title": "TEST",
+    "author": "Conutik Bot",
+    "authorImage": "https://cdn.discordapp.com/app-assets/547843914460037120/573259993810468903.png",
+    "color": "#5655ff",
+    "image": "https://cdn.discordapp.com/avatars/255327008576241674/b2d3010c82cdb7fa226046cb58ab2bc2.png?size=1024",
+    "thumbnail": "https://cdn.discordapp.com/avatars/255327008576241674/b2d3010c82cdb7fa226046cb58ab2bc2.png?size=1024",
+    "showTimestamp": true,
+    "footer": "This is an example Footer!",
+    "fields": [
+      {
+        "title": "Test1",
+        "text": "This is text of Test1"
+      },
+      {
+        "title": "Test1",
+        "text": "This is text of Test1"
+      }
+    ]
+  },
+  "ticketEmbed": {
+    "title": "TEST",
+    "author": "Conutik Bot",
+    "authorImage": "https://cdn.discordapp.com/app-assets/547843914460037120/573259993810468903.png",
+    "color": "#5655ff",
+    "image": "https://cdn.discordapp.com/avatars/255327008576241674/b2d3010c82cdb7fa226046cb58ab2bc2.png?size=1024",
+    "thumbnail": "https://cdn.discordapp.com/avatars/255327008576241674/b2d3010c82cdb7fa226046cb58ab2bc2.png?size=1024",
+    "showTimestamp": true,
+    "footer": "This is an example Footer!",
+    "fields": [
+      {
+        "title": "Test1",
+        "text": "This is text of Test1 {user}"
+      },
+      {
+        "title": "Test1",
+        "text": "This is text of Test1"
+      }
+    ]
+  },
+  "ticketCategories": [
+    {
+      "name": "Commission",
+      "categoryID": "953557505408114700"
+    },
+    {
+      "name": "Support",
+      "categoryID": "953557505408114700"
+    }
+  ],
+  "ticketRoles": [
+    "931241131084238858"
+  ],
+  "ticketMention": true,
+  "questions": [
+    "Test",
+    "test"
+  ],
+  "postTo": "924376718528090212"
+}
